@@ -1,6 +1,7 @@
 # WESTLAND ROLE PLAY
 
-# about:
+
+# about
 
     Мод функционируется на: MySQL R20,Streamer 2.7.7, sscanf2,DC_CMD.
     В моде имеется 18 фракций (LSPD,SFPD,LVPD,SANEWS,ВМФ,СВ,МЧС ЛС,СФ,ЛВ,Groove,Ballas,Aztecas,Vagos,Rifa Gangs,FBI,Автошкола)
